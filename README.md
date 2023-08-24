@@ -1,4 +1,4 @@
-## css-project
+## css-project (Simple website interface💻) 
 
 We were asked, during the first week of the summer training at Qassim Panorama Company, 
 an individual task, which is to study and complete the Satr platform course [https://satr.codes/] on full stack JavaScript. 
